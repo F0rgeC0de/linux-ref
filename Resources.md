@@ -15,8 +15,9 @@ Collection of useful linux things
 ### nix-env
 
 - Very useful guide on the basics: https://christitus.com/nix-package-manager/
-- Search for any packages here: https://search.nixos.org/packages?channel=unstable&show=lazygit&from=0&size=50&sort=relevance&type=packages&query=lazygit
+- Search for any packages here: https://search.nixos.org/packages
 
+  
 ### flakes
 
 
