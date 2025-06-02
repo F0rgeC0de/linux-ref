@@ -10,7 +10,7 @@ Collection of useful linux things
 ## Nix
 
 - Lots of useful info here: https://tech.aufomm.com/my-nix-journey-use-nix-with-ubuntu/
-
+- Examples specific to ubuntu: https://gist.github.com/stuart-warren/66bea8c9b23fdac317598ea46b3b97d0
 
 ### nix-env
 
